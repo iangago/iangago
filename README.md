@@ -15,7 +15,7 @@
 
 ### 3. iangago
     No description found.
-    Stars: 0 | None
+    Stars: 0 | Python
 
 <!-- END:PROJECTS -->
 <!-- START:STATS -->
@@ -26,8 +26,8 @@
 ### - Total Stars: 1
 ### - Avg Stars per Project: 0.2
 ### - Laguages Used:
-- C (66.7%)
-- Python (33.3%)
+- Python (50.0%)
+- C (50.0%)
 
 
 <!-- END:STATS -->
@@ -35,9 +35,9 @@
 
 ## Recent Activity
 
-### - Pushes: 5
-### - Active Repositories: 2
-### - Most Active Project: steam-game-recommender-python
+### - Pushes: 7
+### - Active Repositories: 3
+### - Most Active Project: iangago
 
 
 <!-- END:ACTIVITY -->
