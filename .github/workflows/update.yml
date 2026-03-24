@@ -31,9 +31,11 @@ jobs:
         run: python main.py
 
       - name: Commit changes
-        run: |
+        run:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git pull --rebase origin main
 
           git add README.md
 
@@ -42,6 +44,5 @@ jobs:
             exit 0
           fi
 
-          git pull --rebase origin main
           git commit -m "Auto update README"
           git push origin main
