@@ -35,7 +35,7 @@
 
 ## Recent Activity
 
-### - Pushes: 7
+### - Pushes: 12
 ### - Active Repositories: 3
 ### - Most Active Project: iangago
 
