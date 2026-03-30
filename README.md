@@ -9,25 +9,25 @@
     Steam game recommendation engine built in Python
     Stars: 1 | Python
 
-### 2. finance-tracker-c
+### 2. workflow-analyzer-python
+    This application tracks real study sessions and the events that occur during them, allowing future analysis of learning patterns and productivity behavior.
+    Stars: 1 | Python
+
+### 3. finance-tracker-c
     A terminal-based personal finance tracker written in C.
     Stars: 0 | C
-
-### 3. iangago
-    No description found.
-    Stars: 0 | Python
 
 <!-- END:PROJECTS -->
 <!-- START:STATS -->
 
 ## GitHub Stats
 
-### - Total Projects: 4
-### - Total Stars: 1
-### - Avg Stars per Project: 0.2
+### - Total Projects: 5
+### - Total Stars: 2
+### - Avg Stars per Project: 0.4
 ### - Laguages Used:
-- Python (50.0%)
-- C (50.0%)
+- Python (60.0%)
+- C (40.0%)
 
 
 <!-- END:STATS -->
