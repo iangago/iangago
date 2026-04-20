@@ -35,8 +35,8 @@
 
 ## Recent Activity
 
-### - Pushes: 11
-### - Active Repositories: 3
+### - Pushes: 6
+### - Active Repositories: 2
 ### - Most Active Project: workflow-analyzer-python
 
 
